@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-        <meta charset="utf-8">
-        <title>Oficina PHPWomen</title>
-    </head>
+<?php
 
-    <body>
-                        
-        <?php
-
-            // Coloque seu código aqui!
-
-        ?>
-
-    </body>
-</html>
+// Coloque seu código aqui!
