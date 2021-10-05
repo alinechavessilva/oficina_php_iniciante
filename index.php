@@ -1,3 +1,5 @@
 <?php
 
-// Coloque seu código aqui!
+echo php_info();
+
+?>
